@@ -1,2 +1,3 @@
 # Tic-Tac-Toe-Game
-Here's the demo of the game URL="https://quiet-dieffenbachia-61097e.netlify.app"
+
+Preview of  game =    https://sparkling-snickerdoodle-ee8d47.netlify.app/
